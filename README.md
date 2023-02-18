@@ -3,7 +3,7 @@
 <h3 align="center">A passionate frontend developer and Machine Learning Enthusiast</h3>
 <img align="right" alt="Coding" width="400" src=”developer_4x.webp”>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prakhar760&label=Profile%20views&color=0e75b6&style=flat" alt="prakhar760" /> </p>
+<p align="left"> <img src="png-transparent-html-logo-computer-programming-child-source-code-software-developer-text-line-technology.png" alt="prakhar760" /> </p>
 
 - 🔭 I’m currently working on **PPE kit Safety Ensurance Detector**
 
