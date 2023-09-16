@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM…)]
+[![MasterHead](computer vision.jpeg)]
 <h1 align="center">Hi 👋, I'm Prakhar Singh</h1>
 <h3 align="center">A passionate frontend developer and Machine Learning Enthusiast</h3>
 <img align="right" alt="" width="400" src=”png-transparent-html-logo-computer-programming-child-source-code-software-developer-text-line-technology.png”>
