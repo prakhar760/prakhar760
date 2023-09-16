@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [this link]([https://github.com/prakhar760/](https://github.com/prakhar760?tab=repositories))
 
-- 💬 Ask me about **Frontend , Machine Learning**
+- 💬 Ask me about **Computer Vision , Frontend**
 
 - 📫 How to reach me **prakharsingh2018@gmail.com**
 
