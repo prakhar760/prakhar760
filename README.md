@@ -1,7 +1,7 @@
 [![MasterHead](computer vision.jpeg)]
 <h1 align="center">Hi 👋, I'm Prakhar Singh</h1>
-<h3 align="center">A passionate frontend developer and Machine Learning Enthusiast</h3>
-<img align="right" alt="" width="400" src=”png-transparent-html-logo-computer-programming-child-source-code-software-developer-text-line-technology.png”>
+<h3 align="center">A passionate Machine Learning Enthusiast and UI developer</h3>
+<img align="right" alt="" width="400" src=”computer vision.jpeg”>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prakhar760&label=Profile%20views&color=0e75b6&style=flat" alt="prakhar760" /> </p>
 
