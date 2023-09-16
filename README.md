@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **Backend Development**
 
-- 👨‍💻 All of my projects are available at [https://prakhar760.github.io/Portfolio/](https://prakhar760.github.io/Portfolio/)
+- 👨‍💻 All of my projects are available at [https://prakhar760.github.io/Portfolio/](https://github.com/prakhar760/)
 
 - 💬 Ask me about **Frontend , Machine Learning**
 
