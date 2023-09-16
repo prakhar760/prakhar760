@@ -1,4 +1,3 @@
-[![MasterHead](https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif)](https://github.com/prakhar760/)
 <h1 align="center">Hi 👋, I'm Prakhar Singh</h1>
 <h3 align="center">A passionate Machine Learning Enthusiast and UI developer</h3>
 <img align="right" alt="prakhars-image" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">
