@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prakhar760&label=Profile%20views&color=0e75b6&style=flat" alt="prakhar760" /> </p>
 
-- 🔭 I’m currently working on **Langchain and GPT**
+#- 🔭 I’m currently working on **Langchain and GPT**
 
 - 🌱 I’m currently learning **Generative AI**
 
