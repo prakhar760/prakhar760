@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Generative AI**
 
-- 👨‍💻 All of my projects are available at [this link]([(https://github.com/prakhar760?tab=repositories)])
+- 👨‍💻 All of my projects are available at [this link](https://github.com/prakhar760?tab=repositories)
 
 - 💬 Ask me about **Generative AI, LLMs, Voice AI, Computer Vision and Latest AI Technologies**
 
